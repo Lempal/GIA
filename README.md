@@ -1,4 +1,3 @@
-📄 README.md (Pronto para uso)
 # 🏆 Base de Conhecimento de Esportes
 
 Uma aplicação simples e moderna que permite pesquisar rapidamente informações sobre diversos esportes.  
